@@ -18,7 +18,7 @@ services:
           name: google-tech-db
           property: connectionString
       - key: ENSEIGNANT_SECRET_CODE
-        value: votre_code_secret_ici
+        value: Teach2026
       - key: EMAIL_BACKEND
         value: django.core.mail.backends.console.EmailBackend
       - key: DEFAULT_FROM_EMAIL
